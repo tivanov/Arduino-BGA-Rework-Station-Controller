@@ -9,6 +9,7 @@ This controller has several functions:
 
 The code is based on the work by Norcal Reballer from the http://bgamods.com forum and his code helped me a lot to understand how PID controllers should work.
 
-This is not a finished product. This software is a part of a bigger plan for building a BGA rework station, consisting of the station itself, controlled by an Arduino running this software and a Java desktop application for command and control. 
+This is not a finished product. This software is a part of a bigger plan for building a BGA rework station, consisting of the station itself, controlled by an Arduino running this software and a Java desktop application for command and control. Here is the partly working  station:
+![My BGA rework station](the_rework_station.jpg?raw=true)
 
 There is still work to be done (and probably bugs), but maybe someone will find use for it.
